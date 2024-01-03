@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Webklex\\PDFMerger\\": "src/PDFMerger"
+            "mailstreetdevelopment\\pdfmerger\\": "src/PDFMerger"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Webklex\\PDFMerger\\Test\\": "tests"
+            "mailstreetdevelopment\\pdfmerger\\Test\\": "tests"
         }
     },
     "scripts": {
