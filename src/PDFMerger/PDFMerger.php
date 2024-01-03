@@ -10,10 +10,10 @@
 *  -
 */
 
-namespace Webklex\PDFMerger;
+namespace mailstreetdevelopment\pdfmerger;
 
-use setasign\Fpdi\Fpdi as FPDI;
-use setasign\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\Fpdi as FPDI;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
