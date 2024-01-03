@@ -1,5 +1,5 @@
 {
-    "name": "webklex/laravel-pdfmerger",
+    "name": "mailstreetdevelopment/pdfmerger",
     "type": "library",
     "description": "Generic PDF merger for Laravel",
     "keywords": [
@@ -22,7 +22,7 @@
         "php": ">=5.5.9",
         "illuminate/support": ">=5.0",
         "setasign/fpdf": "1.8.*",
-        "setasign/fpdi": "^2.0"
+        "mailstreetdevelopment/fpdi": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
